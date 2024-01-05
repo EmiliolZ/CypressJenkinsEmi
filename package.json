@@ -1,0 +1,26 @@
+{
+  "name": "cypressjenkinsemi",
+  "version": "1.0.0",
+  "description": "Prueba cypress jenkins curso agus",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --e2e --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiliolZ/CypressJenkinsEmi.git"
+  },
+  "keywords": [
+    "jenkins",
+    "cypress"
+  ],
+  "author": "Darwoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmiliolZ/CypressJenkinsEmi/issues"
+  },
+  "homepage": "https://github.com/EmiliolZ/CypressJenkinsEmi#readme",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  }
+}
